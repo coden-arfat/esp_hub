@@ -1,0 +1,13 @@
+
+> dev
+> vite --host 127.0.0.1 --port 5173
+
+
+  VITE v5.4.21  ready in 373 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  press h + enter to show help
+6:37:15 PM [vite] page reload root_index.html
+6:37:16 PM [vite] page reload demo_index.html
+6:38:26 PM [vite] hmr update /src/pages/DeviceDetail.jsx, /src/pages/History.jsx, /src/pages/DeviceManager.jsx, /src/pages/Dashboard.jsx, /src/components/RelayToggle.jsx, /src/components/OutputControl.jsx
+6:38:32 PM [vite] hmr update /src/pages/DeviceDetail.jsx, /src/pages/History.jsx, /src/pages/DeviceManager.jsx, /src/pages/Dashboard.jsx, /src/components/RelayToggle.jsx, /src/components/OutputControl.jsx
